@@ -2,6 +2,7 @@
 
 This repository contains the Python code for an approach accepted in the journal *Computing*:  
 **“Smartphone Sensor Fusion for Joint Recognition of Human Activity and Behavioral Context”**
+<img width="877" height="567" alt="{F0EB6AD2-AD5E-4258-A209-5441BF98B8B1}" src="https://github.com/user-attachments/assets/93931679-5667-43a5-a298-2470b38c1bfe" />
 
 ---
 
@@ -66,3 +67,4 @@ BibTeX format:
   note={Accepted for publication}
 }
 ```
+
