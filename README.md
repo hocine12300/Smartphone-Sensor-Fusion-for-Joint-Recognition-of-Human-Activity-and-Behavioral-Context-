@@ -60,11 +60,15 @@ BibTeX format:
 
 ```bibtex
 @article{attoumi2025smartphone,
-  title={Smartphone Sensor Fusion for Joint Recognition of Human Activity and Behavioral Context},
-  author={Hocine, Attoumi and Achour, Achroufene and Redouane, Saifi and Lydia Souici and Djamila Boukredera},
+  title={Smartphone sensor fusion for joint recognition of human activity and behavioral context},
+  author={Attoumi, Hocine and Achroufene, Achour and Saifi, Redouane and Souici, Lydia and Boukredera, Djamila},
   journal={Computing},
+  volume={107},
+  number={10},
+  pages={1--20},
   year={2025},
-  note={Accepted for publication}
+  publisher={Springer}
 }
 ```
+
 
